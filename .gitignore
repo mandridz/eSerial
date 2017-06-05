@@ -1,0 +1,8 @@
+.classpath
+.project
+.settings
+.DS_Store
+pom.xml
+/src/main/java/
+/src/test/
+/target/
